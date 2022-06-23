@@ -1,1 +1,1 @@
-NewsTitle1;NewsText1|NewsTitle2;NewsText2|NewsTitle3;NewsText3|NewsTitle4;NewsText4|
+NewsTitle1;NewsText1;NewsDate1|NewsTitle2;NewsText2;NewsDate2|NewsTitle3;NewsText3;NewsDate3|NewsTitle4;NewsText4;NewsDate4|
