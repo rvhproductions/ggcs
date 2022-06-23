@@ -1,0 +1,1 @@
+NewsTitle1,NewsText1|NewsTitle2,NewsText2|NewsTitle3,NewsText3|NewsTitle4,NewsText4|
