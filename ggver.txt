@@ -1,1 +1,1 @@
-1.4.1:GG-9-22052022:Bugfix update to version 1.4.1.:
+1.4.2:GG-10-25062022:Quality update to version 1.4.2.:
