@@ -1,4 +1,1 @@
-Version 1.5 Beta 2 released;For the changelog, join our Discord server!;6-12-2022;
-|Version 1.5 Beta 1 released;For the changelog, join our Discord server!;4-12-2022;
-|Version 1.4.3 released;For the changelog, join our Discord server!;9-11-2022;
-|Software Update Notice: v1.4.3;v1.4.3 is releasing soon!;17-10-2022;|
+Version 1.5 Beta 2 released;For the changelog, join our Discord server!;6-12-2022;|Version 1.5 Beta 1 released;For the changelog, join our Discord server!;4-12-2022;|Version 1.4.3 released;For the changelog, join our Discord server!;9-11-2022;|Software Update Notice: v1.4.3;v1.4.3 is releasing soon!;17-10-2022;|
