@@ -1,1 +1,1 @@
-Test|Text Line One Including Variables%NL%newlinestarted%VER%;This should show the version: %VER%;Text Line Three;Text Line Four;|all;type;|true|
+Test|Text Line One Including Variables%NL%newlinestarted%VER%;This should show the version: %VER%;-;-;|all;type;|true|
