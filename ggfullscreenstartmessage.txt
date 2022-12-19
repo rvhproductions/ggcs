@@ -1,1 +1,1 @@
-Title text test message|Line 1, new line now:%NL%this should be on a new line;This should show the version: %VER%;line3;line4;|all;type;|true|
+Test|Text Line One Including Variables%NL%newlinestarted%VER%;This should show the version: %VER%;Text Line Three;Text Line Four;|all;type;|true|
