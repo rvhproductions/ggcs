@@ -1,1 +1,1 @@
-Software update required to show news:Go to settings to update.:
+Network support for your version has ended:This means that we can't guarantee a connection.:
