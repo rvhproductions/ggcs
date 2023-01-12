@@ -1,1 +1,1 @@
-Network support for your version has ended:This means that the game might become unstable.:
+Network support for your version has ended:This means that GuessGame might stop connecting.:
