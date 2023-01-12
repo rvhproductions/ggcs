@@ -1,1 +1,1 @@
-Network support for your version has ended:This means that we can't guarantee a connection.:
+Network support for your version has ended:This means that the game might become unstable.:
