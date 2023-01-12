@@ -1,1 +1,1 @@
-Test message for 1.5|-%NL%%VER%;Meant for = 1.5;true;-;|1.5;type;|false|
+Test message for 1.5|-%NL%%VER%;Meant for = 1.5;true;-;|1.5;type;|true|
