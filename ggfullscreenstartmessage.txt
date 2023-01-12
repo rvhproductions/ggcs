@@ -1,1 +1,1 @@
-Test|-;-;-;-;|all;type;|false|
+Test message for 1.5|-%NL%New line test;-;-;-;|all;type;|false|
