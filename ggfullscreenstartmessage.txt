@@ -1,1 +1,1 @@
--|-;-;-;|all;type;|false|
+Test Message|This is a test message to see%NL%if everything works correctly.;-;-;|all;type;|true|
