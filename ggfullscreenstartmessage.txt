@@ -1,1 +1,1 @@
-Test Message|This is a test message to see%NL%if everything works correctly.;For version: All 1.4 revisions;You can safely continue.;|1.4;type;|true|
+-|-;-;-;|all;type;|false|
