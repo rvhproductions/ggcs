@@ -1,1 +1,1 @@
-Issue found|Dear player,%NL%%NL%An issue has been found that allows new profiles to be created%NL%with 100 Hints.%NL%This is unintended behavior, and we're working on a fix.%NL%If you have existing profiles, you can continue to play safely.%NL%If you are a new player, we recommend waiting. For more information, go to:%NL%rvhproductions.com/guessgame/issues;-;-;|all;type;|true|
+-|-;-;-;|all;type;|false|
