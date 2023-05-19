@@ -1,1 +1,1 @@
-This version of GuessGame is nearing the end of support|On May 15, 2023, RVH Productions is ending support for the release%NL%channel GuessGame 1.4.%NL%%NL%This means that GuessGame 1.4 will no longer%NL%receive Quality, Bug fix or Security updates.%NL%%NL%RVH Productions recommends updating to version 1.5.2 or newer%NL%to get the latest quality updates.;-;-;|1.4;type;|true|
+-|-;-;-;|all;type;|false|
