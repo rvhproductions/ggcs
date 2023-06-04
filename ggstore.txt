@@ -1,1 +1,1 @@
-1,hint,100|5,hint,475|10,hint,950|25,hint,2250|
+1,hint,100|5,hint,475|10,powerupexp,950|25,powerupgc,2250|
