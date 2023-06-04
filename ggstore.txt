@@ -1,1 +1,1 @@
-2,powerupgc,100|5,hint,475|10,powerupexp,950|25,powerupgc,2250|
+50,powerupgc,100|5,hint,475|10,powerupexp,950|25,powerupgc,2250|
