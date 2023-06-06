@@ -1,1 +1,1 @@
-1.5.2:GG-12-2-21022023:Quality update to v1.5.2.:
+1.6 Beta 1:GG-13-06062023:First Beta for GuessGame 1.6.:
